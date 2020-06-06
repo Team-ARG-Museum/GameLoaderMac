@@ -1,2 +1,2 @@
 # GameLoaderMac
-This repository exists for archival purposes only.
+A game loader for the Arduboy game system (Mac version)
